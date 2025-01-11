@@ -9,7 +9,8 @@
 - 📫 You can connect with me on LinkedIn or reach out directly through GitHub. Let's get in touch and explore opportunities to collaborate
 
 ## Languages and Tools 
-![image](https://github.com/user-attachments/assets/93ac439f-42e7-4fb8-8c41-3842e8d36546)
+![image](https://github.com/user-attachments/assets/4a95e413-cd30-4791-a02e-cc7a04f72981)
+
 ![image](https://github.com/user-attachments/assets/eaaffb9c-a605-4672-b959-d7256c2a9930)
 ![image](https://github.com/user-attachments/assets/7f710daa-7f66-41cf-bab6-906889c8cfb1)
 ![image](https://github.com/user-attachments/assets/9a2ec20c-35ef-4f6e-af09-8573ca791595)
