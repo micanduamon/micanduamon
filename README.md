@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mica nduamon, an mmbitious developer transitioning into a full-stack role, driven by a passion for coding and innovation.
+- 👋 Hi, I’m mica nduamon, an ambitious developer transitioning into a full-stack role, driven by a passion for coding and innovation.
 
 - 👀 I’m interested in backend development, full-stack development, and collaborative technologies. I enjoy building scalable, efficient, and visually stunning applications.
   
