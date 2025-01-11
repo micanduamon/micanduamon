@@ -10,8 +10,7 @@
 
 ## Languages and Tools 
 ![image](https://github.com/user-attachments/assets/4a95e413-cd30-4791-a02e-cc7a04f72981)
-![image](https://github.com/user-attachments/assets/f5d8d5c9-2932-4cb4-9b61-5b4e5b4e583e)
-
+![image](https://github.com/user-attachments/assets/1e449a9a-6b7e-429a-a10e-da32cc4f4191)
 ![image](https://github.com/user-attachments/assets/eaaffb9c-a605-4672-b959-d7256c2a9930)
 ![image](https://github.com/user-attachments/assets/7f710daa-7f66-41cf-bab6-906889c8cfb1)
 ![image](https://github.com/user-attachments/assets/9a2ec20c-35ef-4f6e-af09-8573ca791595)
