@@ -9,7 +9,20 @@
 - 📫 You can connect with me on LinkedIn or reach out directly through GitHub. Let's get in touch and explore opportunities to collaborate
 
 ## Languages and Tools 
-**Languages:** JavaScript, PHP, HTML, CSS -
-**Frameworks/Libraries:** React, Spring Boot (Java) - 
-**Tools:** Git, GitHub, VS Code, intelli j , Figma, PostgreSQL, , Tailwind CSS, Bootstrap
+![image](https://github.com/user-attachments/assets/93ac439f-42e7-4fb8-8c41-3842e8d36546)
+![image](https://github.com/user-attachments/assets/eaaffb9c-a605-4672-b959-d7256c2a9930)
+![image](https://github.com/user-attachments/assets/7f710daa-7f66-41cf-bab6-906889c8cfb1)
+![image](https://github.com/user-attachments/assets/9a2ec20c-35ef-4f6e-af09-8573ca791595)
+![image](https://github.com/user-attachments/assets/6d25a229-7abd-4b0b-b0a6-b4f6615c741c)
+![image](https://github.com/user-attachments/assets/2bc93318-72ad-4645-b8c5-33a892d08607)
+![image](https://github.com/user-attachments/assets/d17ef49a-6b97-469c-a74e-ca4399a48bc0)
+![image](https://github.com/user-attachments/assets/515cc940-5b3b-4eae-856c-e36bd8307b00)
+
+
+
+
+
+
+
+
 
