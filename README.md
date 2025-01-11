@@ -10,7 +10,7 @@
 
 ## Languages and Tools 
 ![image](https://github.com/user-attachments/assets/4a95e413-cd30-4791-a02e-cc7a04f72981)
-![kmo072iq](https://github.com/user-attachments/assets/f5d8d5c9-2932-4cb4-9b61-5b4e5b4e583e)
+![image](https://github.com/user-attachments/assets/f5d8d5c9-2932-4cb4-9b61-5b4e5b4e583e)
 
 ![image](https://github.com/user-attachments/assets/eaaffb9c-a605-4672-b959-d7256c2a9930)
 ![image](https://github.com/user-attachments/assets/7f710daa-7f66-41cf-bab6-906889c8cfb1)
