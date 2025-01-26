@@ -6,7 +6,7 @@
 
 - 💞️ I'm looking to collaborate on innovative tech projects, leveraging my backend development skills with Spring Boot (Java). Open to partnering with like-minded entrepreneurs, developers, and designers.
 
-- 📫 You can connect with me on LinkedIn or reach out directly through GitHub. Let's get in touch and explore opportunities to collaborate
+- 📫 You can connect with me on LinkedIn or reach out directly through GitHub. Let's get in touch and explore opportunities to collaborate.
 
 ## Languages and Tools 
 ![image](https://github.com/user-attachments/assets/4a95e413-cd30-4791-a02e-cc7a04f72981)
